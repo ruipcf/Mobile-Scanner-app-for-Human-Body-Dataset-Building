@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Head Scanner</string>
+
+    <string name="options_title_with_depth" translatable="false">Your device supports depth</string>
+    <string name="options_title_without_depth" translatable="false">Your device does not support depth</string>
+
+    <string name="IP_label">Insert the IP address to the server</string>
+    <string name="IP_port_label">Insert the port to the server</string>
+    <string name="save_label">Save</string>
+
+</resources>
